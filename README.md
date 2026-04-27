@@ -1,5 +1,7 @@
 # 🧬 AlphaFold Protein Visualization (Bioinformatics)
 
+Study notebook and code provided by the DUNE IT YOURSELF club instructors
+
 This repository contains a Data Science project developed during the **Clubes de Ciencia México** program, specifically within the *"DUNE IT YOURSELF: AI, Microbes & Proteins"* club. 
 
 ##  Overview
